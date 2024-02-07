@@ -4,7 +4,8 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
-    distDir: 'docs',
+    // distDir: 'docs',
+    // basePath: '/meridian-streetview-prototype',
 };
 
 export default nextConfig;
